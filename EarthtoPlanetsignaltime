@@ -1,7 +1,7 @@
 planet = input("Which planet to you wish to visit? ")
 
 Mercury = 222000000
-Venus = 
+#Venus = 
 
 # distance in miles form earth to mars
 
