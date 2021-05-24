@@ -1,1 +1,32 @@
+planet = input("Which planet to you wish to visit? ")
 
+Mercury = 222000000
+Venus = 
+
+# distance in miles form earth to mars
+
+x = 21000000000000
+
+# convert to meters
+#1 inch = 2.54 cm
+
+#s = speed of light
+s = 300000000
+
+# meters in a  mile(1609.34)
+# distance in metter
+
+#xm = x*1606.4
+
+print("the distance from Earth to Voyager in meters is:" + str(x))
+print("the speed of light is:" + str(s))
+
+t = x/s
+
+print("It takes light:" + str(t) + " seconds" + "to reach earth")
+
+# in hours
+total= t/3600
+print (total)
+
+w = .2*60
