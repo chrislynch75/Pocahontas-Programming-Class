@@ -1,7 +1,26 @@
-planet = input("Which planet to you wish to visit? ")
+#Chris Lynch 2021
+"""This program calculates the signal time from Earth to an object located in the solar system. 
+This program assumes a standard speed of light of 299,792,458 m/s in vacuum. 
+These calculations are based on mean distance from the Earth and are only estimates."""
 
-Mercury = 222000000
-#Venus = 
+Space_Object = input("Which planet, moon or object to you wish to visit? ")
+
+# Standard distances in meters to object in the solar system from Earth. 
+
+Sun=147500000000
+Mercury = 91726000000
+Venus = 41840000000
+Earth = 0
+Earth Moon = 
+Mars = 385000000
+Jupiter = 591000000000 
+Saturn = 
+Titan
+Ganymede
+Uranus
+Neptune
+
+
 
 # distance in miles form earth to mars
 
